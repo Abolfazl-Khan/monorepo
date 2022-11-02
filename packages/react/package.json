@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "license": "MIT",
-  "type": "module",
+  "files": [
+    "lib"
+  ],
   "devDependencies": {
     "@types/react": "^18.0.24",
     "react": "^18.2.0",
