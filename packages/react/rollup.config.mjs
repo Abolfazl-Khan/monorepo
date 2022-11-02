@@ -6,8 +6,9 @@ export default {
     dir: 'lib',
     format: 'esm',
     sourcemap: true,
+    preserveModules: true,
   },
+
   plugins: [Ts()],
-  preserveModules: true,
   external: ['react'],
 };
