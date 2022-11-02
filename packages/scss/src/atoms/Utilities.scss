@@ -1,6 +1,7 @@
 @import "foundation/all";
 
-@each $size, $value in $spacing {
+@each $size,
+$value in $spacing {
     .dse-width-#{$size} {
         width: $value;
     }
