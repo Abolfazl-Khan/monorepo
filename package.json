@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "lerna": "^6.0.1"
+    "lerna": "^3.22.1"
   },
   "private": "true",
   "workspaces": {
